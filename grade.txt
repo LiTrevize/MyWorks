@@ -1,0 +1,3 @@
+2 DiscreteMath 3 97
+2 MathAnalysis 6 74
+1 MilitaryTheory 1 88
